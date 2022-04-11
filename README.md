@@ -10,7 +10,6 @@
 
 - 🌱 &nbsp; Growing to be a software / system engineer.
 
-- ✍️ &nbsp; Learning about Front-end Technologies.
 
 
 
@@ -23,6 +22,8 @@
 - 🌐 &nbsp; SpringBoot | Mybatis 
 
 - 🔧 &nbsp; AWS | Docker🐳 |
+
+- ✍️ &nbsp; Machine Learning | Deep Learning 
 
 <br/><br/>
 
