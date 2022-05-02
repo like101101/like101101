@@ -33,7 +33,7 @@
 
 <br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=like101101&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=like101101&show_icons=true?exclude_repo=like101101.github.io)
 
 <br><br>
 
