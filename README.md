@@ -8,7 +8,7 @@
 
 - 🎓 &nbsp; Undergraduate Junior at BU, majoring Computer Science and Statistic.
 
-- 🌱 &nbsp; Growing to be a software / system engineer.
+- 🌱 &nbsp; Growing to be a software engineer.
 
 
 
