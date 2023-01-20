@@ -1,6 +1,6 @@
 ### Hi there 👋<h2> I'm Ke Li</h2>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif)" width="230">
 
 <h3> 💻 About Me </h3>
 
