@@ -2,31 +2,13 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<h3> 👨🏻•💻 About Me </h3>
+<h3> 💻 About Me </h3>
 
 
 
-- 🎓 &nbsp; Undergraduate Junior at BU, majoring Computer Science and Statistic.
+- 🎓 &nbsp; Undergraduate at BU, majoring Computer Science and Statistic.
 
-- 🌱 &nbsp; Growing to be a software engineer.
-
-
-
-
-<h3>🛠 Tech Stack</h3>
-
-
-
-- 💻 &nbsp; Python | Java | C | X86 Assembly | R | Shell Scripts
-
-- 🌐 &nbsp; SpringBoot | Mybatis 
-
-- 🔧 &nbsp; AWS | Docker🐳 |
-
-- ✍️ &nbsp; Machine Learning | Deep Learning 
-
-
-<hr>
+- 🌱 &nbsp; Software Enginnering Intern at RedHat
 
 
 
