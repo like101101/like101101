@@ -25,19 +25,6 @@
 
 - ✍️ &nbsp; Machine Learning | Deep Learning 
 
-<br/><br/>
-
-[![Ke's GitHub stats](https://github-readme-stats.vercel.app/api?username=like101101)](https://github.com/like101101/github-readme-stats)
-
-<br/>
-
-<br/>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=like101101&show_icons=true&exclude_repo=like101101.github.io)
-
-<br><br>
-
-
 
 <hr>
 
