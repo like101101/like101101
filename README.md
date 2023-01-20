@@ -1,15 +1,13 @@
-### Hi there 👋<h2> I'm Ke Li</h2>
+### Hi there 👋 <h2> I'm Ke Li</h2>
 
-<img align='right' src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" width="230">
+<img align='right' src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" width="400">
 
 <h3> 💻 About Me </h3>
 
 
+- [![redhat](https://cdn3.emoji.gg/emojis/4787_redhat.png)](https://emoji.gg/emoji/4787_redhat) &nbsp; Software Enginnering Intern at RedHat
 
 - 🎓 &nbsp; Undergraduate at BU, majoring Computer Science and Statistic.
-
-- 🌱 &nbsp; Software Enginnering Intern at RedHat
-
 
 
 <h3> 🤝🏻 Connect with Me </h3>
