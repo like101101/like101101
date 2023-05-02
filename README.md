@@ -5,7 +5,7 @@
 <h3> 💻 About Me </h3>
 
 
-- <a href="https://emoji.gg/emoji/4787_redhat"><img src="https://cdn3.emoji.gg/emojis/4787_redhat.png" width="30px" height="20px" alt="redhat"></a> &nbsp; Software Enginnering Intern at RedHat
+- <a href="https://emoji.gg/emoji/4787_redhat"><img src="https://cdn3.emoji.gg/emojis/4787_redhat.png" width="30px" height="20px" alt="redhat"></a> &nbsp; Software Engineering Intern at RedHat
 
 - 🎓 &nbsp; Undergraduate at BU, majoring Computer Science and Statistic.
 
