@@ -5,9 +5,7 @@
 <h3> 💻 About Me </h3>
 
 - <img src="https://yt3.googleusercontent.com/ohq_J_KuKzPKxE6gaO9rSlOumphqnoVEk4DqmEqmjl7FPZYtFivgDXJruU0aVvo7RlcGHNKB=s900-c-k-c0x00ffffff-no-rj" width="30px" height="20px" alt="redhat"> &nbsp; Master of Science in Software Engineering in CMU Silicon Valley
-
-- <img src="https://cdn3.emoji.gg/emojis/4787_redhat.png" width="20px" height="15px" alt="redhat"> &nbsp; Software Engineering Intern at RedHat
-
+- 
 - 🎓 &nbsp; Undergraduate at BU, majoring Computer Science and Statistic.
 
 
